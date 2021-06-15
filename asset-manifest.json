@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cc53f4bc.chunk.css",
+    "main.js": "/static/js/main.b80e02e8.chunk.js",
+    "main.js.map": "/static/js/main.b80e02e8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.69990280.js",
+    "runtime-main.js.map": "/static/js/runtime-main.69990280.js.map",
+    "static/js/2.4169857e.chunk.js": "/static/js/2.4169857e.chunk.js",
+    "static/js/2.4169857e.chunk.js.map": "/static/js/2.4169857e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.cc53f4bc.chunk.css.map": "/static/css/main.cc53f4bc.chunk.css.map",
+    "static/js/2.4169857e.chunk.js.LICENSE.txt": "/static/js/2.4169857e.chunk.js.LICENSE.txt",
+    "static/media/NickolausCarterResume.90fedc34.pdf": "/static/media/NickolausCarterResume.90fedc34.pdf",
+    "static/media/code-quiz.d7cf4b43.png": "/static/media/code-quiz.d7cf4b43.png",
+    "static/media/confeastador.f0667a9e.png": "/static/media/confeastador.f0667a9e.png",
+    "static/media/daily-planner.ce52469f.png": "/static/media/daily-planner.ce52469f.png",
+    "static/media/lab-manager.37ad6d70.png": "/static/media/lab-manager.37ad6d70.png",
+    "static/media/nick.a699b4a5.jpg": "/static/media/nick.a699b4a5.jpg",
+    "static/media/note-taker.5cadc920.png": "/static/media/note-taker.5cadc920.png",
+    "static/media/simple-jack.b8bd12a8.png": "/static/media/simple-jack.b8bd12a8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69990280.js",
+    "static/js/2.4169857e.chunk.js",
+    "static/css/main.cc53f4bc.chunk.css",
+    "static/js/main.b80e02e8.chunk.js"
+  ]
+}
