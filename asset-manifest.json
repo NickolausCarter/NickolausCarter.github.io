@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.cc53f4bc.chunk.css",
-    "main.js": "/static/js/main.47b79625.chunk.js",
-    "main.js.map": "/static/js/main.47b79625.chunk.js.map",
+    "main.js": "/static/js/main.4416c073.chunk.js",
+    "main.js.map": "/static/js/main.4416c073.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.69990280.js",
     "runtime-main.js.map": "/static/js/runtime-main.69990280.js.map",
-    "static/js/2.4169857e.chunk.js": "/static/js/2.4169857e.chunk.js",
-    "static/js/2.4169857e.chunk.js.map": "/static/js/2.4169857e.chunk.js.map",
+    "static/js/2.fb6b6c3f.chunk.js": "/static/js/2.fb6b6c3f.chunk.js",
+    "static/js/2.fb6b6c3f.chunk.js.map": "/static/js/2.fb6b6c3f.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.cc53f4bc.chunk.css.map": "/static/css/main.cc53f4bc.chunk.css.map",
-    "static/js/2.4169857e.chunk.js.LICENSE.txt": "/static/js/2.4169857e.chunk.js.LICENSE.txt",
+    "static/js/2.fb6b6c3f.chunk.js.LICENSE.txt": "/static/js/2.fb6b6c3f.chunk.js.LICENSE.txt",
     "static/media/NickolausCarterResume.90fedc34.pdf": "/static/media/NickolausCarterResume.90fedc34.pdf",
     "static/media/code-quiz.d7cf4b43.png": "/static/media/code-quiz.d7cf4b43.png",
     "static/media/confeastador.f0667a9e.png": "/static/media/confeastador.f0667a9e.png",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.69990280.js",
-    "static/js/2.4169857e.chunk.js",
+    "static/js/2.fb6b6c3f.chunk.js",
     "static/css/main.cc53f4bc.chunk.css",
-    "static/js/main.47b79625.chunk.js"
+    "static/js/main.4416c073.chunk.js"
   ]
 }
